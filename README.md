@@ -1,2 +1,0 @@
-# ThisIsNiceGame
-Esforce
